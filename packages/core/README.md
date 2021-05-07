@@ -1,3 +1,11 @@
-# `Chakra ui default theme override package`
+# `boilerplate`
 
+> TODO: description
 
+## Usage
+
+```
+const boilerplate = require('boilerplate');
+
+// TODO: DEMONSTRATE API
+```
