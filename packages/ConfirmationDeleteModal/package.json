@@ -44,6 +44,6 @@
     "react-dom": ">=16.8.6"
   },
   "dependencies": {
-    "@ecosystemos/core": "^0.0.0"
+    "@ecosystemos/core":"0.0.0"
   }
 }

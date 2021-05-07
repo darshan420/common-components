@@ -12,7 +12,7 @@ export function DeleteModal() {
   const { isOpen, onOpen, onClose } = useDisclosure();
   return (
     <>
-      <Button onClick={onOpen} variant="primary" bg="primaryTeal.400" size="md">
+      <Button onClick={onOpen}  bg="primaryTeal.400" >
         Delete Note
       </Button>
       <ConfirmationDeleteModal
